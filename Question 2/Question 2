@@ -1,0 +1,7 @@
+run:
+X + Y = 149
+X * Y = 3000
+X - Y = 101
+X / Y = 5
+X % Y = 5
+BUILD SUCCESSFUL (total time: 1 second)
